@@ -36,7 +36,6 @@ function dropItems() --Method for dropping items
 
     debugInfo();
     sleep(300);
-
 end
 
 
