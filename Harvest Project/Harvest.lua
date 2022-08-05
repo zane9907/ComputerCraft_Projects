@@ -1,3 +1,5 @@
+--Pastebin link: https://pastebin.com/WM5FfrdN
+
 --Variables
 
 local startPosX = 1;
